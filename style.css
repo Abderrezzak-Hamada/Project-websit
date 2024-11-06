@@ -1,0 +1,197 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding:0;
+}
+
+header {
+    
+    padding: 10px 0;
+    
+}
+
+nav ul {
+    padding: 1;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 170px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px; 
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    color: darkgoldenrod;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.turk{
+   background: url(/pexels-muharrem-aydin-921468-1836580\ \(1\).jpg);
+  background-size: 1750px;
+}
+.algie{
+    background: url(/wp9011394.jpg);
+    background-size: 1750px;
+}
+h2{
+    text-align: center;
+}
+.didi{
+    background: url(/Wallpaper\ Anime\ _\ Your\ Name\ _\ Taki\ Tachibana.jpg);
+    background-size: 2000px;
+   
+}
+.didi2{
+    text-align: center;
+    color: white;
+    background-color: darkblue;
+}
+.didi4{
+ text-align: center;
+ color: white;
+ background-color: darkmagenta;
+}
+.didi6{
+    text-align: center;
+ color: white;
+ background-color: darkgoldenrod;
+}
+.didi8{
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+}
+.didi1{
+    color: darkgray;
+}
+.ror1{
+    text-align: left;
+    margin-left: 20px;
+    color: black;
+    background-color: aliceblue;
+    margin-right: 1200px;
+}
+.rar1{
+    text-align: left;
+    margin-left: 20px;
+    color: aliceblue;
+}
+.flor1{
+   background: url(/pexels-pixabay-301926.jpg);
+   background-size: 1750px;
+}
+.vip1{
+    text-align: left;
+    margin-left: 20px;
+    color: white;
+
+}
+.vip2{
+    text-align: left;
+    margin-left: 20px;
+    color: black;
+    background-color: white;
+}
+.roz1{
+    margin-top: 50px;
+    margin-left: 750px;
+}
+.zanga{
+    background: url(/pexels-pixabay-301926.jpg);
+    background-size: 1750px;
+}
+.zip{
+    margin-left: 830px;
+    text-align: center;
+}
+.lolp{
+    background: url(/pexels-hillaryfox-1595385.jpg);
+    background-size: 1750px;
+}
+.lala{
+ text-align: left;
+ margin-left: 20px;
+}
+.lala1{
+    text-align: left;
+  font-weight: bolder;  
+  stop-color: aquamarine;
+ margin-left: 20px;
+ 
+}
+.frop{
+    width: 700px;
+    margin-left: 100px;
+}
+.gaq{
+    color: black;
+}
+
+body.popq {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; 
+    height: 100vh;
+    background: linear-gradient(to right, #6a11cb, #2575fc); 
+    color: white; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1.mmew {
+    font-size: 3rem; 
+    color: #ffeb3b; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
+    margin: 0;
+}
+
+
+img.popo {
+    max-width: 80%; 
+    height: auto; 
+    margin-top: 30px; 
+}
+
+
+header nav ul {
+    list-style-type: none; 
+    padding: 0;
+    margin: 0;
+    position: absolute; 
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%); 
+}
+
+header nav ul li {
+    display: inline-block;
+    margin: 10px;
+}
+
+header nav ul li a {
+    text-decoration: none; 
+    color: #ffeb3b; 
+    font-size: 1.2rem; 
+    font-weight: bold;
+    text-transform: uppercase; 
+    transition: color 0.3s; 
+}
+
+header nav ul li a:hover {
+    color: #ffffff; 
+}
